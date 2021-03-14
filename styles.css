@@ -148,3 +148,12 @@ body {
 .post-container:nth-child(even) {
     background-color:  #f2f2f2;
 }
+
+
+//居中格式
+.centerMe {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid green;
+    text-align: center;
+}
